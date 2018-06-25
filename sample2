@@ -1,3 +1,7 @@
 sample2 is created now.
 2nd line updated
+<<<<<<< HEAD
 fifty....
+=======
+3rd line updated
+>>>>>>> 3e3aeca6bfb85d41f891fea7113950ecd6e2fd2d
